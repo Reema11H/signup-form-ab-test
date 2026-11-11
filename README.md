@@ -91,17 +91,8 @@ python main.py
 ## المتطلبات
 Python 3 ومكتبات numpy وpandas وscipy وmatplotlib (في `requirements.txt`).
 
-## هيكل المستودع
+
 ```
-signup-form-ab-test/
-├── README.md
-├── main.py
-├── requirements.txt
-├── data/
-│   └── dataset.csv
-└── outputs/
-    ├── charts/   (completion_by_variant.png, effect_with_ci.png, novelty_check.png)
-    └── results/  (report.md, primary_metric.csv, secondary_metrics.csv, guardrail_metrics.csv)
 ```
 
 ## عن البرنامج
