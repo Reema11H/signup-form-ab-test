@@ -1,4 +1,0 @@
-metric,A,B,diff,ci_low,ci_high,se,p,status
-Email verification rate,0.8502,0.8527,0.0025,-0.0125,0.0174,0.0076,0.7451,healthy
-Active after 7 days rate,0.6155,0.6034,-0.0121,-0.0326,0.0084,0.0105,0.2487,healthy
-Fake/duplicate account rate,0.0321,0.0298,-0.0023,-0.0096,0.005,0.0037,0.5398,healthy
